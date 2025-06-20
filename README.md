@@ -62,8 +62,6 @@ This project focuses on forecasting energy consumption using machine learning te
 For any questions or collaborations, reach out to:
 - **Name:** Mehrta Eslami
 - **Email:** mehrtaeslamii@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile]
-- **GitHub:** [Your GitHub Profile]
 
 ---
 
